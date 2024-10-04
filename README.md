@@ -1,0 +1,3 @@
+- A simple game is built in Python
+- User will choose "r" "p" or "s" which stand for rock, paper or scissors. 
+- The result will be based on your selection and computer's random choice
